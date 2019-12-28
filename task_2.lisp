@@ -14,4 +14,4 @@
 )
 
 (print_text "error")
-(print_text "text.txt")
+(print_text "text2.txt")
